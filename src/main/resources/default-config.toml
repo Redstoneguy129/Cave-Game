@@ -1,0 +1,13 @@
+windowWidth = 960
+windowHeight = 540
+
+[KeyBindings]
+forward = "W"
+backward = "S"
+left = "A"
+right = "D"
+jump = "Space"
+crouch = "LeftShift"
+sprint = "LeftControl"
+interact = "mouseRight"
+attack = "mouseLeft"
